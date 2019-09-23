@@ -3,7 +3,7 @@ Final Project
 
 # Demo time
 
-TBD
+TBD (Maybe Week18 or Week19)
 
 # 題目
 
@@ -11,4 +11,4 @@ TBD
 
 2. AES Encryption System
 
-3. TBD 
+3. TBD
