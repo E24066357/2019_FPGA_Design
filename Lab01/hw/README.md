@@ -5,7 +5,7 @@ Homework 1
 
 **2019/10/7(Mon.) 18:59**
 
-## Program 1 - 使用板子上的 RGB LED 實現路口交通號誌
+## Program 1 - 使用板子上的 RGB LED 實現路口交通號誌 (90%)
 
 ### 作業說明
 
@@ -25,7 +25,7 @@ Homework 1
 
 [如何製造黃燈](https://zh.wikipedia.org/wiki/%E4%B8%89%E5%8E%9F%E8%89%B2%E5%85%89%E6%A8%A1%E5%BC%8F)
 
-## Bonus
+## Bonus (20%)
 
 ### 作業說明
 
@@ -43,11 +43,11 @@ Homework 1
 
 5. 用 4-bit LED 以二進位顯示秒數。
 
-## Bonus 2
+## Bonus 2 (20%)
 
 畫出系統設計圖 (非合成後的電路圖)。
 
-## Problems
+## Problems (10%)
 
 1. 為什麼要加入 blinky.xdc 這個 Constraint ?
 
