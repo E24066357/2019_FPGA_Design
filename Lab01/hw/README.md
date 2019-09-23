@@ -44,6 +44,6 @@ Homework 1
 
 1. 為什麼要加入 blinky.xdc 這個 Constraint ?
 
-> [Hint](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_1/ug903-vivado-using-constraints.pdf)
+> [Hint](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_1/ug903-vivado-using-constraints.pdf)、 [Hint too](https://forums.xilinx.com/t5/Synthesis/Clock-Dividers-XDC-definition-best-practice/td-p/709540)
 
 2. 承上題，若沒有加入這個 Constraint，可能會發生什麼事?
