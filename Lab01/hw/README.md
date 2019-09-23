@@ -41,6 +41,12 @@ Homework 1
 
 4. Switch 為 `11` 時 ，使用 Buttons 調整兩者重疊的紅燈長(t3)。
 
+5. 用 4-bit LED 以二進位顯示秒數。
+
+## Bonus 2
+
+畫出系統設計圖 (非合成後的電路圖)。
+
 ## Problems
 
 1. 為什麼要加入 blinky.xdc 這個 Constraint ?
