@@ -25,3 +25,13 @@ Homework 00 - Verilog Code Practice
 >請大家練習撰寫README.md，不僅是為了方便助教們評分，在撰寫README時也能幫助自己更了解自己的作業內容
 
 > [MarkDown撰寫教學](https://markdown.tw/) 、 [推薦.md編輯器](https://atom.io/)
+
+# 作業補充說明！（9/26 11:48更新）
+
+請同學將 `testfixture.v` define 的 OUTLENTH 改為 10
+
+並在跑模擬時按下上方工具列的 `Run All`
+
+應該就能跑出模擬成功的信息了
+
+![sim](images/sim.png)
