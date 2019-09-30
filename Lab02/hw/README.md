@@ -1,7 +1,7 @@
 Homework 2
 ====================
 
-## Program 1 - 使用 PWM 產生彩虹七色 (40%)
+## Program 1 - 使用 PWM 產生彩虹七色 (50%)
 
 ### 繳交期限
 
@@ -26,7 +26,7 @@ Homework 2
 
 2. System Block 可以參考 Lab 2-1 *(i.e.改寫其中一個Block即可)*，
 
-## Program 2 - 使用單色 LED 實作呼吸燈 (%)
+## Program 2 - 使用單色 LED 實作呼吸燈 (50%)
 
 ### 作業說明
 
