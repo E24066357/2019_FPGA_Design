@@ -35,3 +35,21 @@ Homework 00 - Verilog Code Practice
 應該就能跑出模擬成功的信息了
 
 ![sim](images/sim.png)
+
+# 作業成績
+
+| 組別 | 分數 | 備註 |
+|------|------|-----|
+|1|100||
+|2|100|說明檔可以搭配圖片一起說明，全部打在一起看的有點累XD|
+|3|95|功能正常但Verilog有一些要改善的問題：1. Sequential Circuit內對register的存取應該要使用<= 2. case未寫default case|
+|4|95|功能正常但Verilog有一些要改善的問題：1. Sequential Circuit內對register的存取應該要使用<= |
+|5|95|功能正常但Verilog有一些要改善的問題：1. Sequential Circuit內對register的存取應該要使用<= 2. case未寫default case|
+|6|100||
+|7|100|作業說明可以再豐富一點下次請加油|
+|8|100||
+|9|100||
+
+## 作業說明
+
+有附上一份寫得蠻好的範例 Code ，希望大家以後在 Coding的時候可以多多注意自己的Verilog的語法使用，既可以減少合成出錯也可以讓自己成為更好的人！
