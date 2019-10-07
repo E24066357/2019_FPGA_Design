@@ -3,11 +3,13 @@ Homework 3
 
 # 繳交時間
 
-### Question 1.
+10/21(Mon.) 19:00
+
+### Question 1. (10%)
 
 請問在不改動任何設定下，ZYNQ CPU 儲存資料的方式是 big-endian 還是 little-endian?
 
-### Program 1 - 使用 AXI GPIO - 控制 RGB LED
+### Program 1 - 使用 AXI GPIO - 控制 RGB LED (30%)
 
 **作業說明 :** 請依照 Lab 3-2 的方法，建立一個以 Zynq Processor 和 AXI GPIO 組成的系統，並從 PS 控制 RGB LED。
 
@@ -17,7 +19,7 @@ Homework 3
 
 2. C Code 需加上註解。
 
-### Program 2 - Hash Function
+### Program 2 - Hash Function (30%)
 
 **作業說明 :** 將組內每個人的學號透過 Hash Function 計算後 Print 在 Terminal 上。
 
@@ -31,7 +33,7 @@ Example:
 
 ![Example](example.png)
 
-### Program 3 - Sorting
+### Program 3 - Sorting (30%)
 
 **作業說明 :** 使用鍵盤輸入 20 個非負整數後，將此數列從小排到大。
 
